@@ -1,1 +1,1 @@
-https://github.com/DazhMaks-debug/ono-tebe-nado-ad
+https://github.com/yongell/ono-tebe-nado-ad.git
